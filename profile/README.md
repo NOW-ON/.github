@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&text=Welcome%20To%20NOW_ON&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&animation=blinking&color=auto&height=100&section=header&text=Welcome%20To%20NOW_ON&fontSize=40)
 
 <br/><br/>
 
