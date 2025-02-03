@@ -2,11 +2,11 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&animation=blinking&color=auto&height=100&section=header&text=Welcome%20To%20NOW_ON&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&animation=blinking&color=auto&height=100&section=header&text=iOS%20Interview%20NOW_ON&fontSize=40)
 
 <br/><br/>
 
-🌈 NOW_ON에 오신 것을 환영합니다 🌈
+NOW_ON에 오신 것을 환영합니다.
 
 <br/>
 
@@ -14,12 +14,14 @@
 
 <br/>
 
-iOS 앱 개발자 5명으로 구성되어 있습니다. 
+iOS 앱 개발자 2명으로 구성되어 있고, 
+면접 스터디를 진행중입니다.
   
 <br/><br/>
 
-## 🙇 NOW_ON Members 🙇
+# 🙇 NOW_ON Members 🙇
 
+<br/>
 
 ### **윤여진**
 
@@ -31,27 +33,6 @@ iOS 앱 개발자 5명으로 구성되어 있습니다.
 
 ---
 
-### **이재용**
-
-📧 **Email** [wodyddml2@gmail.com](mailto:wodyddml2@gmail.com)
-
-🐱 **Github** [https://github.com/wodyddml2](https://github.com/wodyddml2)
-
-🔛 **Blog**  [https://jiaoes.tistory.com/](https://jiaoes.tistory.com/)
-
----
-
-
-### **김도이**
-
-📧 **Email** [kimdee.dev@gmail.com](mailto:kimdee.dev@gmail.com)
-
-🐱 **Github** [https://github.com/heydoy](https://github.com/heydoy)
-
-🔛 **Blog**  [kimdee.netlify.app](http://kimdee.netlify.app)
-
----
-
 ### **홍석준**
 
 📧 **Email** [glasses.str.man@gmail.com](mailto:glasses.str.man@gmail.com)
@@ -59,17 +40,6 @@ iOS 앱 개발자 5명으로 구성되어 있습니다.
 🐱 **Github**  [github.com/Glsme](https://github.com/Glsme)
 
 🔛 **Blog** [glsman-111co.tistory.com](https://glsman-111co.tistory.com/)
-
----
-
-
-### **이주영**
-
-📧 **Email** [hii5074@gmail.com](mailto:hii5074@gmail.com)
-
-🐱 **Github** [github.com/Leejoobang](https://github.com/LeeJoobang)
-
-🔛 **Blog** [https://velog.io/@hii5074](https://velog.io/@hii5074)
 
 ---
 
